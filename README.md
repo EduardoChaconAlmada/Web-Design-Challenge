@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![week-11-web_homework_Images_landingResize.png](week-11-web_homework_Images_landingResize.png)
+![Images/week-11-web_homework_Images_landingResize.png](Images/week-11-web_homework_Images_landingResize.png)
 
 ### Before You Begin
 
@@ -84,33 +84,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](week-11-web_homework_Images_landingResize.png)
+![Landing page large screen](Images/week-11-web_homework_Images_landingResize.png)
 
 Small screen:
 
-![Landing page small screen](week-11-web_homework_Images_landing-sm.png)
+![Landing page small screen](Images/week-11-web_homework_Images_landing-sm.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](week-11-web_homework_Images_comparison-lg.png)
+![comparison page large screen](Images/week-11-web_homework_Images_comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](week-11-web_homework_Images_comparison-sm.png)
+![comparison page small screen](Images/week-11-web_homework_Images_comparison-sm.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](week-11-web_homework_Images_data-lg.png)
+![data page large screen](Images/week-11-web_homework_Images_data-lg.png)
 
 
 Small screen:
 
-![data page small screen](week-11-web_homework_Images_data-sm.png)
+![data page small screen](Images/week-11-web_homework_Images_data-sm.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -118,19 +118,19 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](week-11-web_homework_Images_visualize-lg.png)
+![visualize page large screen](Images/week-11-web_homework_Images_visualize-lg.png)
 
 Small screen:
 
-![visualize page small screen](week-11-web_homework_Images_visualize-sm.png)
+![visualize page small screen](Images/week-11-web_homework_Images_visualize-sm.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](week-11-web_homework_Images_nav-lg.png)
+![nav menu large screen](Images/week-11-web_homework_Images_nav-lg.png)
 
 Small screen:
-![nav menu small screen](week-11-web_homework_Images_nav-sm.png)
+![nav menu small screen](Images/week-11-web_homework_Images_nav-sm.png)
 
 ### Copyright
 
